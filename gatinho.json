@@ -1,6 +1,21 @@
 {
-  "nome":"Chapelco",
+  "gatos" : [
+      {
+        "nome":"Chapelco",
   "idade":5,
-  "revolution":190320,
+  "revolution":200303,
   "raiva":1902
+    },
+    {
+    "nome":"Luna",
+  "idade":9,
+  "revolution":200303,
+  "raiva":1902
+},
+{
+     "nome": "Núbio",
+    "idade" : "?",
+    "revolution" : "200303"
+    "raiva" : "?"  }
+]
 }
